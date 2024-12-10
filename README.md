@@ -12,7 +12,7 @@ This module homework was completed with the assistance of tutoring sessions with
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sqlalchemy-challenge.git
+   git clone [https://github.com/your-username/sqlalchemy-challenge.git](https://github.com/Ebauer286/sqlalchemy-challenge.git)
 
 ##Install required dependencies:
 pip install -r requirements.txt
